@@ -17,8 +17,8 @@ In the installer, select the following packages: `git`, `make`, and `gcc-core`.
 In the **Cygwin terminal**:
 
 ```bash
-git clone https://github.com/Rangi42/polishedcrystal.git
-cd polishedcrystal
+git clone https://github.com/dangersafe/ghostcrystal
+cd ghostcrystal
 mkdir rgbds
 ```
 
