@@ -3380,6 +3380,7 @@ endc
 
 	evos_attacks Quilava
 	evo_data EVOLVE_LEVEL, 36, TYPHLOSION
+	evo_data EVOLVE_ITEM, FIRE_STONE, TYPHLOSION, HISUIAN_FORM
 	learnset 1, TACKLE
 	learnset 1, LEER
 	learnset 6, SMOKESCREEN
@@ -3431,7 +3432,7 @@ endc
 	learnset 43, WILL_O_WISP ; Lava Plume → TM move
 	learnset 48, FLAMETHROWER
 	learnset 56, SHADOW_BALL
-	learnset 61, ROLLOUT
+	learnset 61, ANCIENTPOWER
 	learnset 69, DOUBLE_EDGE
 	learnset 74, DARK_PULSE ; Infernal Parade → new move
 	learnset 81, FLARE_BLITZ ; Eruption → egg move
