@@ -36,7 +36,7 @@
 	wildmon 6, GASTLY
 	wildmon 4, BELLSPROUT
 	wildmon 7, RATTATA
-	wildmon 6, MISDREAVOUS
+	wildmon 6, MISDREAVUS
 	wildmon 7, BELLSPROUT
 	; day
 	wildmon 4, RATTATA
@@ -52,7 +52,7 @@
 	wildmon 6, GASTLY
 	wildmon 4, BELLSPROUT
 	wildmon 7, GASTLY
-	wildmon 6, MISDREAVOUS
+	wildmon 6, MISDREAVUS
 	wildmon 7, BELLSPROUT
 	end_grass_wildmons
 
