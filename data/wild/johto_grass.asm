@@ -33,10 +33,10 @@
 	; morn
 	wildmon 4, RATTATA
 	wildmon 5, RATTATA
-	wildmon 6, RATTATA
+	wildmon 6, GASTLY
 	wildmon 4, BELLSPROUT
 	wildmon 7, RATTATA
-	wildmon 6, BELLSPROUT
+	wildmon 6, MISDREAVOUS
 	wildmon 7, BELLSPROUT
 	; day
 	wildmon 4, RATTATA
@@ -52,7 +52,7 @@
 	wildmon 6, GASTLY
 	wildmon 4, BELLSPROUT
 	wildmon 7, GASTLY
-	wildmon 6, BELLSPROUT
+	wildmon 6, MISDREAVOUS
 	wildmon 7, BELLSPROUT
 	end_grass_wildmons
 
@@ -479,7 +479,7 @@
 	def_grass_wildmons UNION_CAVE_1F
 	db 4 percent, 4 percent, 4 percent ; encounter rates: morn/day/nite
 	; morn
-	wildmon 8, GEODUDE
+	wildmon 8, LARVITAR
 	wildmon 8, SANDSHREW
 	wildmon 7, ZUBAT
 	wildmon 6, RATTATA
@@ -2190,7 +2190,7 @@
 	wildmon LEVEL_FROM_BADGES - 2, VOLTORB
 	wildmon LEVEL_FROM_BADGES - 2, GEODUDE, ALOLAN_FORM
 	wildmon LEVEL_FROM_BADGES - 0, ZUBAT
-	wildmon LEVEL_FROM_BADGES - 3, MAGNEMITE
+	wildmon LEVEL_FROM_BADGES - 3, PORYGON
 	wildmon LEVEL_FROM_BADGES - 1, MAGNEMITE
 	wildmon LEVEL_FROM_BADGES - 3, MAGNEMITE
 	wildmon LEVEL_FROM_BADGES - 1, ELEKID
@@ -2198,7 +2198,7 @@
 	wildmon LEVEL_FROM_BADGES - 2, VOLTORB
 	wildmon LEVEL_FROM_BADGES - 2, GEODUDE, ALOLAN_FORM
 	wildmon LEVEL_FROM_BADGES - 0, ZUBAT
-	wildmon LEVEL_FROM_BADGES - 3, MAGNEMITE
+	wildmon LEVEL_FROM_BADGES - 3, PORYGON
 	wildmon LEVEL_FROM_BADGES - 1, MAGNEMITE
 	wildmon LEVEL_FROM_BADGES - 3, MAGNEMITE
 	wildmon LEVEL_FROM_BADGES - 1, ELEKID
@@ -2206,7 +2206,7 @@
 	wildmon LEVEL_FROM_BADGES - 0, ZUBAT
 	wildmon LEVEL_FROM_BADGES - 2, GEODUDE, ALOLAN_FORM
 	wildmon LEVEL_FROM_BADGES - 2, VOLTORB
-	wildmon LEVEL_FROM_BADGES - 3, MAGNEMITE
+	wildmon LEVEL_FROM_BADGES - 3, PORYGON
 	wildmon LEVEL_FROM_BADGES - 1, MAGNEMITE
 	wildmon LEVEL_FROM_BADGES - 3, MAGNEMITE
 	wildmon LEVEL_FROM_BADGES - 1, ELEKID
