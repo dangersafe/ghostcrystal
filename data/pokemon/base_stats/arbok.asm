@@ -1,7 +1,7 @@
 	db  60,  95,  69,  80,  65,  79 ; 448 BST
 	;   hp  atk  def  spe  sat  sdf
 
-	db POISON, POISON ; type
+	db POISON, GHOST ; type
 	db 90 ; catch rate
 	db 147 ; base exp
 	db NO_ITEM, POISON_BARB ; held items
