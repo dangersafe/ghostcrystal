@@ -252,9 +252,9 @@ PokemonBodyData:
 	body_data  19, 1780, QUADRUPED,    YELLOW ; RAIKOU
 	body_data  21, 1980, QUADRUPED,    BROWN  ; ENTEI
 	body_data  20, 1870, QUADRUPED,    BLUE   ; SUICUNE
-	body_data   6,  720, BIPEDAL_TAIL, GREEN  ; LARVITAR
-	body_data  12, 1520, SERPENTINE,   GRAY   ; PUPITAR
-	body_data  20, 2020, BIPEDAL_TAIL, GREEN  ; TYRANITAR
+	body_data   6,  720, BIPEDAL_TAIL, PURPLE  ; LARVITAR
+	body_data  12, 1520, SERPENTINE,   PURPLE   ; PUPITAR
+	body_data  20, 2020, BIPEDAL_TAIL, PURPLE  ; TYRANITAR
 	body_data  52, 2160, WINGS,        WHITE  ; LUGIA
 	body_data  38, 1990, WINGS,        RED    ; HO_OH
 	body_data   6,   50, BIPEDAL,      GREEN  ; CELEBI
