@@ -2297,7 +2297,7 @@ endc
 	learnset 13, LEER
 	learnset 17, FOCUS_ENERGY
 	learnset 21, BONEMERANG
-	learnset 23, RAGE
+	learnset 23, SHADOW_CLAW
 	learnset 27, LOW_KICK ; False Swipe → HGSS tutor move
 	learnset 31, FALSE_SWIPE ; Thrash → False Swipe
 	learnset 33, THRASH ; Fling → Thrash
@@ -2309,7 +2309,7 @@ endc
 
 	evos_attacks MarowakPlain
 	learnset 1, SWORDS_DANCE ; evolution move
-	learnset 1, GROWL
+	learnset 1, SHADOW_CLAW
 	learnset 3, TACKLE ; Tail Whip → new move
 	learnset 7, MUD_SLAP ; Bone Club → TM move
 	learnset 11, HEADBUTT
@@ -2926,7 +2926,7 @@ endc
 	learnset 20, AURORA_BEAM
 	learnset 25, RECOVER ; Aqua Ring → similar move
 	learnset 29, BARRIER ; Acid Armor → similar move
-	learnset 33, HAZE
+	learnset 33, SHADOW_BALL
 	learnset 37, SCALD ; Muddy Water → TM move
 	learnset 41, DOUBLE_EDGE ; Last Resort → tutor move
 	learnset 45, HYDRO_PUMP
@@ -2942,7 +2942,7 @@ endc
 	learnset 17, SPARK ; Double Kick → new move
 	learnset 20, LIGHT_SCREEN ; Thunder Fang → TM move
 	learnset 25, PIN_MISSILE
-	learnset 29, AGILITY
+	learnset 29, SHADOW_BALL
 	learnset 33, THUNDER_WAVE
 	learnset 37, THUNDERBOLT ; Discharge → TM move
 	learnset 41, DOUBLE_EDGE ; Last Resort → tutor move
@@ -2959,7 +2959,7 @@ endc
 	learnset 17, BITE
 	learnset 20, FIRE_SPIN ; Fire Fang → Fire Spin
 	learnset 25, FLAME_CHARGE ; Fire Spin → TM move
-	learnset 29, SCARY_FACE
+	learnset 29, SHADOW_CLAW
 	learnset 33, SMOKESCREEN ; Smog → new move
 	learnset 37, FLAMETHROWER ; Lava Plume → new move
 	learnset 41, DOUBLE_EDGE ; Last Resort → tutor move
@@ -2973,7 +2973,7 @@ endc
 	learnset 7, PSYBEAM
 	learnset 12, AGILITY
 	learnset 18, RECOVER
-	learnset 23, GROWTH ; Magnet Rise → new move
+	learnset 23, SHADOW_BALL ; Magnet Rise → new move
 	learnset 29, AURORA_BEAM ; Signal Beam → new move
 	learnset 34, THUNDER_WAVE ; Recycle → TM move
 	learnset 40, BARRIER ; Discharge → event move
@@ -3429,7 +3429,7 @@ endc
 	learnset 24, FLAME_CHARGE ; Defense Curl → Flame Charge
 	learnset 31, SWIFT
 	learnset 35, HEX
-	learnset 43, WILL_O_WISP ; Lava Plume → TM move
+	learnset 43, AURA_SPHERE ; Lava Plume → TM move
 	learnset 48, FLAMETHROWER
 	learnset 56, SHADOW_BALL
 	learnset 61, ANCIENTPOWER
@@ -4159,7 +4159,7 @@ endc
 	learnset 13, QUICK_ATTACK
 	learnset 17, SWIFT
 	learnset 20, PSYBEAM
-	learnset 25, FUTURE_SIGHT
+	learnset 25, SHADOW_BALL
 	learnset 29, REFLECT ; Psych Up → event move
 	learnset 33, HEALINGLIGHT ; Morning Sun → similar move
 	learnset 37, PSYCHIC_M
@@ -4177,7 +4177,7 @@ endc
 	learnset 17, CONFUSE_RAY
 	learnset 20, FEINT_ATTACK
 	learnset 25, TOXIC ; Assurance → TM move
-	learnset 29, SCREECH
+	learnset 29, SHADOW_CLAW
 	learnset 33, HEALINGLIGHT ; Moonlight → similar move
 	learnset 37, SUCKER_PUNCH ; Mean Look → tutor move
 	learnset 41, DOUBLE_EDGE ; Last Resort → tutor move
@@ -5590,7 +5590,7 @@ endc
 	learnset 29, SWORDS_DANCE
 	learnset 33, HEALINGLIGHT ; Synthesis → similar move
 	learnset 37, SEED_BOMB ; Sunny Day → tutor move
-	learnset 41, DOUBLE_EDGE ; Last Resort → tutor move
+	learnset 41, SHADOW_BALL ; Last Resort → tutor move
 	learnset 45, SUNNY_DAY ; Leaf Blade → Sunny Day
 
 	evos_attacks Glaceon
@@ -5605,7 +5605,7 @@ endc
 	learnset 20, ICE_SHARD ; Ice Fang → Ice Shard
 	learnset 25, HAIL ; Ice Shard → Hail
 	learnset 29, BARRIER
-	learnset 33, MIRROR_COAT
+	learnset 33, SHADOW_BALL
 	learnset 37, ICE_BEAM ; Hail → TM move
 	learnset 41, DOUBLE_EDGE ; Last Resort → tutor move
 	learnset 45, BLIZZARD
@@ -5639,7 +5639,7 @@ endc
 	learnset 18, RECOVER
 	learnset 23, GROWTH ; Magnet Rise → new move
 	learnset 29, AURORA_BEAM ; Signal Beam → new move
-	learnset 34, PAIN_SPLIT ; Embargo → HGSS tutor move
+	learnset 34, SHADOW_BALL ; Embargo → HGSS tutor move
 	learnset 40, BARRIER ; Discharge → event move
 	learnset 45, THUNDERBOLT ; Lock-On → TM move
 	learnset 50, TRI_ATTACK
@@ -5661,7 +5661,7 @@ endc
 	learnset 29, HEAL_BELL ; Misty Terrain → HGSS tutor move
 	learnset 33, LIGHT_SCREEN
 	learnset 37, MOONBLAST
-	learnset 41, DOUBLE_EDGE ; Last Resort → tutor move
+	learnset 41, SHADOW_BALL ; Last Resort → tutor move
 	learnset 45, PLAY_ROUGH ; Psych Up → new move
 
 	evos_attacks Perrserker
