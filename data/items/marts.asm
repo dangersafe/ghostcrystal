@@ -80,7 +80,7 @@ VioletMart:
 	db -1
 
 AzaleaMart:
-	db 10 ; # items
+	db 12 ; # items
 	db CHARCOAL
 	db POKE_BALL
 	db NET_BALL
@@ -90,7 +90,9 @@ AzaleaMart:
 	db REPEL
 	db ANTIDOTE
 	db PARALYZEHEAL
-	db FLOWER_MAIL
+	db LEAF_STONE
+	db LINKING_CORD
+	db ODD_SOUVENIR
 	db -1
 
 Goldenrod2FMart1:
@@ -253,7 +255,7 @@ MahoganyMart2:
 	db HYPER_POTION
 	db SUPER_REPEL
 	db REVIVE
-	db FLOWER_MAIL
+	db DUBIOUS_DISC
 	db -1
 
 BlackthornMart:
