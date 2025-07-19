@@ -19,8 +19,8 @@
 	wildmon 5, BELLSPROUT
 	wildmon 6, BELLSPROUT
 	; nite
-	wildmon 3, RATTATA
-	wildmon 4, RATTATA
+	wildmon 3, MURKROW
+	wildmon 4, MURKROW
 	wildmon 5, GASTLY
 	wildmon 3, BELLSPROUT
 	wildmon 6, GASTLY
@@ -489,17 +489,17 @@
 	; day
 	wildmon 8, GEODUDE
 	wildmon 8, SANDSHREW
-	wildmon 7, ZUBAT
+	wildmon 7, LARVITAR
 	wildmon 6, RATTATA
 	wildmon 9, ZUBAT
 	wildmon 8, ONIX
 	wildmon 8, ONIX
 	; nite
 	wildmon 8, GEODUDE
-	wildmon 8, RATTATA
+	wildmon 8, LAVITAR
 	wildmon 7, WOOPER
 	wildmon 6, RATTATA
-	wildmon 9, ZUBAT
+	wildmon 9, LARVITAR
 	wildmon 8, ONIX
 	wildmon 8, ONIX
 	end_grass_wildmons
@@ -1294,7 +1294,7 @@
 	wildmon 3, GEODUDE
 	wildmon 2, ZUBAT
 	wildmon 2, GEODUDE
-	wildmon 4, GEODUDE
+	wildmon 4, LARVITAR
 	wildmon 2, TEDDIURSA
 	wildmon 4, ZUBAT
 	wildmon 4, DUNSPARCE
@@ -1302,7 +1302,7 @@
 	wildmon 3, GEODUDE
 	wildmon 2, ZUBAT
 	wildmon 2, GEODUDE
-	wildmon 4, GEODUDE
+	wildmon 4, LARVITAR
 	wildmon 2, ZUBAT
 	wildmon 4, ZUBAT
 	wildmon 4, DUNSPARCE
@@ -1310,7 +1310,7 @@
 	wildmon 3, GEODUDE
 	wildmon 2, ZUBAT
 	wildmon 2, GEODUDE
-	wildmon 4, GEODUDE
+	wildmon 4, LARVITAR
 	wildmon 2, ZUBAT
 	wildmon 4, ZUBAT
 	wildmon 4, DUNSPARCE
@@ -1544,18 +1544,18 @@
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	wildmon 5, LEDYBA
-	wildmon 5, PIDGEY
+	wildmon 5, EEVEE
 	wildmon 6, BELLSPROUT
 	wildmon 7, GROWLITHE
-	wildmon 6, PIDGEY
+	wildmon 6, EEVEE
 	wildmon 7, PIDGEY
 	wildmon 7, PIDGEY
 	; day
 	wildmon 5, PIDGEY
-	wildmon 5, PIDGEY
+	wildmon 5, EEVEE
 	wildmon 6, BELLSPROUT
 	wildmon 7, GROWLITHE
-	wildmon 6, PIDGEY
+	wildmon 6, EEVEE
 	wildmon 7, PIDGEY
 	wildmon 7, PIDGEY
 	; nite
@@ -1563,7 +1563,7 @@
 	wildmon 5, HOOTHOOT
 	wildmon 6, BELLSPROUT
 	wildmon 7, VULPIX
-	wildmon 6, HOOTHOOT
+	wildmon 6, EEVEE
 	wildmon 7, GASTLY
 	wildmon 7, GASTLY
 	end_grass_wildmons
