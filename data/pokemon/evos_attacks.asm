@@ -2023,11 +2023,11 @@ endc
 	learnset 1, HYPNOSIS
 	learnset 1, LICK
 	learnset 5, DISABLE ; Spite → egg move
-	learnset 8, MEAN_LOOK
+	learnset 8, CONFUSION
 	learnset 12, CURSE
 	learnset 15, NIGHT_SHADE
 	learnset 19, CONFUSE_RAY
-	learnset 22, SUCKER_PUNCH
+	learnset 22, DRAINING_KISS
 	learnset 26, PAIN_SPLIT ; Payback → HGSS tutor move
 	learnset 29, SHADOW_BALL
 	learnset 33, DREAM_EATER
@@ -2042,11 +2042,11 @@ endc
 	learnset 1, HYPNOSIS
 	learnset 1, LICK
 	learnset 5, DISABLE ; Spite → egg move
-	learnset 8, MEAN_LOOK
+	learnset 8, CONFUSION
 	learnset 12, CURSE
 	learnset 15, NIGHT_SHADE
 	learnset 19, CONFUSE_RAY
-	learnset 22, SUCKER_PUNCH
+	learnset 22, DRAINING_KISS
 	learnset 28, PAIN_SPLIT ; Payback → HGSS tutor move
 	learnset 33, SHADOW_BALL
 	learnset 39, DREAM_EATER
@@ -2060,18 +2060,18 @@ endc
 	learnset 1, HYPNOSIS
 	learnset 1, LICK
 	learnset 5, DISABLE ; Spite → egg move
-	learnset 8, MEAN_LOOK
+	learnset 8, CONFUSION
 	learnset 12, CURSE
 	learnset 15, NIGHT_SHADE
 	learnset 19, CONFUSE_RAY
-	learnset 22, SUCKER_PUNCH
+	learnset 22, DRAINING_KISS
 	learnset 28, PAIN_SPLIT ; Payback → HGSS tutor move
 	learnset 33, SHADOW_BALL
 	learnset 39, DREAM_EATER
 	learnset 44, DARK_PULSE
 	learnset 50, DESTINY_BOND
 	learnset 55, HEX
-	learnset 61, PERISH_SONG ; Nightmare → new move
+	learnset 61, AURA_SPHERE ; Nightmare → new move
 
 	evos_attacks Onix
 	evo_data EVOLVE_TRADE, METAL_COAT, STEELIX
@@ -3441,7 +3441,7 @@ endc
 	evo_data EVOLVE_LEVEL, 18, CROCONAW
 	learnset 1, SCRATCH
 	learnset 1, LEER
-	learnset 6, WATER_GUN
+	learnset 6, AQUA_JET
 	learnset 8, RAGE
 	learnset 13, BITE
 	learnset 15, SCARY_FACE
@@ -3465,7 +3465,7 @@ endc
 	learnset 8, RAGE
 	learnset 13, BITE
 	learnset 15, SCARY_FACE
-	learnset 21, METAL_CLAW ; Ice Fang → egg move
+	learnset 21, ICICLE_CRASH ; Ice Fang → egg move
 	learnset 24, REVERSAL ; Flail → similar move
 	learnset 30, AGILITY ; Feraligatr move
 	learnset 33, CRUNCH
@@ -3485,14 +3485,14 @@ endc
 	learnset 8, RAGE
 	learnset 13, BITE
 	learnset 15, SCARY_FACE
-	learnset 21, METAL_CLAW ; Ice Fang → egg move
+	learnset 21, ICILE_CRASH ; Ice Fang → egg move
 	learnset 24, REVERSAL ; Flail → similar move
 	learnset 32, AGILITY
 	learnset 37, CRUNCH
-	learnset 45, ANCIENTPOWER ; Chip Away → HGSS tutor move
+	learnset 45, POISON_JAB ; Chip Away → HGSS tutor move
 	learnset 50, SLASH
 	learnset 56, SCREECH
-	learnset 62, THRASH
+	learnset 62, ZEN_HEADBUTT
 	learnset 68, OUTRAGE ; HGSS tutor move
 	learnset 73, AQUA_TAIL
 	learnset 78, CLOSE_COMBAT ; Superpower → similar move
@@ -4167,11 +4167,11 @@ endc
 	learnset 45, POWER_GEM ; Power Swap → SV TM move
 
 	evos_attacks Umbreon
-	learnset 1, GROWL
+	learnset 1, BITE
 	learnset 1, TACKLE
 	learnset 1, LEER ; Tail Whip → similar move
 	learnset 1, PURSUIT ; evolution move
-	learnset 5, MUD_SLAP ; Sand Attack → similar move
+	learnset 5, CONFUSION ; Sand Attack → similar move
 	learnset 9, DOUBLE_KICK ; Baby-Doll Eyes → LGPE move
 	learnset 13, QUICK_ATTACK
 	learnset 17, CONFUSE_RAY
@@ -4180,7 +4180,7 @@ endc
 	learnset 29, SHADOW_CLAW
 	learnset 33, HEALINGLIGHT ; Moonlight → similar move
 	learnset 37, SUCKER_PUNCH ; Mean Look → tutor move
-	learnset 41, DOUBLE_EDGE ; Last Resort → tutor move
+	learnset 41, DRAINING_KISS ; Last Resort → tutor move
 	learnset 45, MEAN_LOOK ; Guard Swap → Mean Look
 
 	evos_attacks Murkrow
