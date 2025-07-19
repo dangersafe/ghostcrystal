@@ -496,7 +496,7 @@
 	wildmon 8, ONIX
 	; nite
 	wildmon 8, GEODUDE
-	wildmon 8, LAVITAR
+	wildmon 8, LARVITAR
 	wildmon 7, WOOPER
 	wildmon 6, RATTATA
 	wildmon 9, LARVITAR
