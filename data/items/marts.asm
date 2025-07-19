@@ -78,7 +78,7 @@ VioletMart:
 	db SHINY_STONE
 	db UPGRADE
 	db ABILITY_CAP
-	db ABILITY_PATCH
+	db ABILITYPATCH
 	db -1
 
 AzaleaMart:
