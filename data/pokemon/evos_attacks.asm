@@ -3485,7 +3485,7 @@ endc
 	learnset 8, RAGE
 	learnset 13, BITE
 	learnset 15, SCARY_FACE
-	learnset 21, ICILE_CRASH ; Ice Fang → egg move
+	learnset 21, ICICLE_CRASH ; Ice Fang → egg move
 	learnset 24, REVERSAL ; Flail → similar move
 	learnset 32, AGILITY
 	learnset 37, CRUNCH
