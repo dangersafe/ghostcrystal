@@ -65,7 +65,7 @@ CherrygroveMartAfterDex:
 	db -1
 
 VioletMart:
-	db 11 ; # items
+	db 13 ; # items
 	db POKE_BALL
 	db REPEAT_BALL
 	db POTION
@@ -77,6 +77,8 @@ VioletMart:
 	db LUCKY_EGG
 	db SHINY_STONE
 	db UPGRADE
+	db ABILITY_CAP
+	db ABILITY_PATCH
 	db -1
 
 AzaleaMart:
