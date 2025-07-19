@@ -1403,7 +1403,7 @@
 	def_grass_wildmons ROUTE_31
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	wildmon 4, LEDYBA
+	wildmon 4, TOTODILE
 	wildmon 4, CATERPIE
 	wildmon 5, BELLSPROUT
 	wildmon 5, PIDGEY
@@ -1411,7 +1411,7 @@
 	wildmon 5, HOPPIP
 	wildmon 5, HOPPIP
 	; day
-	wildmon 4, PIDGEY
+	wildmon 4, TOTODILE
 	wildmon 4, CATERPIE
 	wildmon 5, BELLSPROUT
 	wildmon 5, PIDGEY
@@ -1422,7 +1422,7 @@
 	wildmon 4, SPINARAK
 	wildmon 4, POLIWAG
 	wildmon 5, BELLSPROUT
-	wildmon 5, HOOTHOOT
+	wildmon 5, TOTODILE
 	wildmon 4, ZUBAT
 	wildmon 5, GASTLY
 	wildmon 5, GASTLY
